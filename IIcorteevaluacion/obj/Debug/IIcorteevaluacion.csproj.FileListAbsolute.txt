@@ -1,7 +1,0 @@
-C:\Users\Dell\source\repos\IIcorteevaluacion\bin\Debug\IIcorteevaluacion.exe.config
-C:\Users\Dell\source\repos\IIcorteevaluacion\bin\Debug\IIcorteevaluacion.exe
-C:\Users\Dell\source\repos\IIcorteevaluacion\bin\Debug\IIcorteevaluacion.pdb
-C:\Users\Dell\source\repos\IIcorteevaluacion\obj\Debug\IIcorteevaluacion.csproj.AssemblyReference.cache
-C:\Users\Dell\source\repos\IIcorteevaluacion\obj\Debug\IIcorteevaluacion.csproj.CoreCompileInputs.cache
-C:\Users\Dell\source\repos\IIcorteevaluacion\obj\Debug\IIcorteevaluacion.exe
-C:\Users\Dell\source\repos\IIcorteevaluacion\obj\Debug\IIcorteevaluacion.pdb
